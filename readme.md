@@ -26,6 +26,7 @@ O projeto deve ser feito utilizando as boas práticas de prompt engineer.
 - [🛠️ Regras de negócio](#️-regras-de-negócio)
 - [📖 Material de Apoio](#-material-de-apoio)
 - [🎯 Prompt de Resposta Proposto](#-prompt-de-resposta-proposto)
+- [📬 Contato](#contato)
 
 ---
 
@@ -130,6 +131,7 @@ Disponibilidade de Dias para Treino: O assistente pergunta quantos dias por sema
 
 Preferências de Exercício: O assistente ajusta a rotina de treino com base nas preferências, como exercícios funcionais, com maquinário, pesos livres, cardio ou HIIT.
 
+Para ver o prompt completo e utilizá-lo, acesse a pasta do projeto<br> [**CLIQUE AQUI**](https://github.com/patyfreitasbr/prompt-challenger-personal-ia/blob/main/prompt/prompt-pf.md)
 
 ## Contato
 

@@ -46,30 +46,32 @@ O usuário pode escolher o tipo de exercício preferido, conforme sua preferênc
 ## 💬Exemplo de Interação:
 
 ### 👩‍💻 Usuário: 
-"Eu sou Endomorfo, tenho 3 dias por semana disponíveis e prefiro exercícios: Funcional, Cardio e HIIT."
+``` Eu sou Endomorfo, tenho 3 dias por semana disponíveis e prefiro exercícios: Funcional, Cardio e HIIT." ```
 
 ### 🤖 Resposta do Assistente:
 
-"Como você é endomorfo e tem 3 dias por semana disponíveis para treinar, recomendo um Treino ABC adaptado para maximizar a queima de gordura e melhorar a funcionalidade do corpo, focando nas suas preferências por exercícios funcionais, cardio e HIIT. O objetivo será acelerar seu metabolismo e otimizar a queima calórica.
+  ```` Como você é endomorfo e tem 3 dias por semana disponíveis para treinar, recomendo um Treino ABC adaptado para maximizar a queima de gordura e melhorar a funcionalidade do corpo, focando nas suas preferências por exercícios funcionais, cardio e HIIT. O objetivo será acelerar seu metabolismo e otimizar a queima calórica. ````
 
-**Treino Sugerido:**<br>
-* Dia A: Funcional com Cardio
+ **```Treino Sugerido:```**<br> 
+* ```Dia A: Funcional com Cardio```
 
-Circuito funcional para trabalhar o corpo inteiro com movimentos naturais, como agachamentos, flexões e saltos.
-Finalize com 20 minutos de corrida ou bicicleta.
+``` Circuito funcional para trabalhar o corpo inteiro com movimentos naturais, como agachamentos, flexões e saltos.```
+```Finalize com 20 minutos de corrida ou bicicleta.```
 
-* Dia B: HIIT (Treino Intervalado de Alta Intensidade)
+* ```Dia B: HIIT (Treino Intervalado de Alta Intensidade)```
 
-Faça sprints de 30 segundos, seguidos por 1 minuto de descanso (repita por 20 minutos).
-Adicione exercícios como burpees e polichinelos para intensificar o treino.
+```Faça sprints de 30 segundos, seguidos por 1 minuto de descanso (repita por 20 minutos).```
+``` Adicione exercícios como burpees e polichinelos para intensificar o treino. ```
 
-* Dia C: Funcional + HIIT
+* ```Dia C: Funcional + HIIT```
 
-Combine movimentos funcionais, como prancha, levantamento de peso corporal e saltos, com intervalos de alta intensidade.
-Exemplo: 1 minuto de agachamento com salto, seguido de 30 segundos de descanso, repetindo por 20 minutos.<br>
+```Combine movimentos funcionais, como prancha, levantamento de peso corporal e saltos, com intervalos de alta intensidade.```
+```Exemplo: 1 minuto de agachamento com salto, seguido de 30 segundos de descanso, repetindo por 20 minutos.<br>```
 
-**Dica para Endomorfos:**
-Para maximizar seus resultados, foque em treinos que elevem sua frequência cardíaca e mantenha uma alimentação controlada, com foco em alimentos de baixa caloria, mas ricos em nutrientes. Exercícios como HIIT são perfeitos para acelerar a queima de gordura!"
+**```Dica para Endomorfos:```**
+```Para maximizar seus resultados, foque em treinos que elevem sua frequência cardíaca e mantenha uma alimentação controlada, com foco em alimentos de baixa caloria, mas ricos em nutrientes. Exercícios como HIIT são perfeitos para acelerar a queima de gordura!"  ```
+
+
 
 ## Contato
 

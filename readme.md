@@ -121,3 +121,15 @@ Aqui estão alguns recursos adicionais que podem ser úteis para entender melhor
 ---
 
 ## 🎯 Prompt de Resposta Proposto
+
+O assistente de personal trainer utiliza as informações fornecidas pelo usuário, como biotipo corporal, disponibilidade de dias para treinar e preferências de tipos de exercício, para gerar um plano de treino personalizado.
+
+Identificação do Biotipo Corporal: O usuário seleciona entre Ectomorfo, Mesomorfo ou Endomorfo, e o plano de treino é ajustado para as necessidades específicas de cada biotipo.
+
+Disponibilidade de Dias para Treino: O assistente pergunta quantos dias por semana o usuário pode treinar e sugere a divisão de treino mais eficiente, como Full Body (1 dia), ABC (3 dias) ou ABCDE (5 dias).
+
+Preferências de Exercício: O assistente ajusta a rotina de treino com base nas preferências, como exercícios funcionais, com maquinário, pesos livres, cardio ou HIIT.
+
+Para ver o prompt completo e utilizá-lo, acesse a pasta do projeto aqui.
+
+

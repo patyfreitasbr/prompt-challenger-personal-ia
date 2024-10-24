@@ -131,7 +131,7 @@ Disponibilidade de Dias para Treino: O assistente pergunta quantos dias por sema
 
 Preferências de Exercício: O assistente ajusta a rotina de treino com base nas preferências, como exercícios funcionais, com maquinário, pesos livres, cardio ou HIIT.
 
-Para ver o prompt completo e utilizá-lo, acesse a pasta do projeto<br> [**CLIQUE AQUI**](https://github.com/patyfreitasbr/prompt-challenger-personal-ia/blob/main/prompt/prompt-pf.md)
+Para ver o prompt completo e utilizá-lo, acesse a pasta do projeto<br> [**CLIQUE AQUI**](https://github.com/patyfreitasbr/prompt-challenger-personal-ia/tree/main/prompt)
 
 ## Contato
 
